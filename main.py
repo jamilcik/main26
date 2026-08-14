@@ -12,13 +12,9 @@ python_terms = {
     "Tuple": "O'zgartirib bo'lmaydigan elementlar ketma-ketligi."
 }
 print(python_terms)
-print(python_terms["Variable"])
 print(python_terms["List"])
 print(python_terms["Dictionary"])
-print(python_terms["Loop"])
-print(python_terms["Function"])
 print(python_terms["String"])
 print(python_terms["Integer"])
-print(python_terms["Boolean"])
 print(python_terms["Float"])
-print(python_terms["Tuple"])
+
